@@ -1,0 +1,13 @@
+com.example.barberapp-jetified-window-1.0.0-beta04-0 /Users/dashenkuna/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.barberapp-jetified-annotation-experimental-1.1.0-1 /Users/dashenkuna/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.barberapp-core-1.6.0-2 /Users/dashenkuna/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.barberapp-jetified-window-java-1.0.0-beta04-3 /Users/dashenkuna/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.barberapp-main-4 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/android/app/src/main/res
+com.example.barberapp-release-5 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/android/app/src/release/res
+com.example.barberapp-pngs-6 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/app/generated/res/pngs/release
+com.example.barberapp-resValues-7 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/app/generated/res/resValues/release
+com.example.barberapp-rs-8 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/app/generated/res/rs/release
+com.example.barberapp-mergeReleaseResources-9 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.barberapp-mergeReleaseResources-10 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.barberapp-merged_res-11 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/app/intermediates/merged_res/release
+com.example.barberapp-packaged_res-12 /Users/dashenkuna/Desktop/FlutterProjects/barberapp/build/path_provider_android/intermediates/packaged_res/release
