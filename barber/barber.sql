@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Aug 20, 2023 at 03:13 PM
+-- Generation Time: Aug 21, 2023 at 02:56 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.0.28
 
@@ -49,6 +49,7 @@ INSERT INTO `auth` (`id`, `username`, `icNum`, `password`) VALUES
 
 CREATE TABLE `log` (
   `log_id` int(11) NOT NULL,
+  `uname` text NOT NULL,
   `cust_selection` text NOT NULL,
   `price` text NOT NULL COMMENT '(RM)',
   `timestamp` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
@@ -84,7 +85,7 @@ ALTER TABLE `auth`
 -- AUTO_INCREMENT for table `log`
 --
 ALTER TABLE `log`
-  MODIFY `log_id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `log_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
